@@ -1,0 +1,45 @@
+.imgDiv {
+  background-color: lightgray;
+}
+.desImg {
+  margin-left: 35px;
+  border-radius: 10%;
+  margin: 20px;
+  margin-top: 22px;
+}
+.des-data {
+  display: flex;
+}
+.heading {
+  margin-left: 20px;
+}
+.desHeader {
+  display: flex;
+  background-color: black;
+  color: white;
+  margin-top: -5px;
+}
+.iconCartt {
+  margin-top: 20px;
+  margin-left:100px;
+}
+.iconSearchh {
+  margin-top: 25px;
+  margin-left: 720px;
+}
+.size {
+  display: flex;
+  margin-left: 40%;
+}
+.detail {
+  width: 60%;
+  margin-left: 20%;
+  text-align: justify;
+}
+.btn {
+  background-color: grey;
+  margin: 2px;
+}
+.desDetail {
+  background-color: lightgray;
+}
